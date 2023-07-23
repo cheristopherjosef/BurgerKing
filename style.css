@@ -1,0 +1,57 @@
+.company
+{
+    text-align: center;
+    position: relative;
+    top: 45px;
+    font-weight: bold;
+    /* font-family: 'Libre Baskerville', serif;  */
+    font-family: 'Poppins', sans-serif;
+}
+
+.center
+{
+    position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+    
+}
+
+.qoutes
+{
+    position: relative;
+    bottom: 30px;
+    text-align: center;
+    font-size: small;
+    font-family: 'Poppins', sans-serif;
+}
+.line1
+{
+    position: relative;
+    bottom: 20px;
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+.line2
+{
+    position: relative;
+    bottom: 20px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    color: gray;
+}
+
+.button{
+    width: 200px;
+    color: white;
+    text-decoration: none;
+    padding: 10px 40px;
+    text-align: center;
+    background-color: black;
+    border: none;
+    border-radius: 20px;
+    position: relative;
+    bottom: 15px;
+}
